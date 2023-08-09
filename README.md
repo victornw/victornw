@@ -2,7 +2,7 @@
 
 
 - Programming Languages: Python and C.
-- Languages: Portuguese (Fluent) and English (Intermediate).
+- Languages: Portuguese (Native) and English (Intermediate).
 - I'm currently studying Data Science!
 
 <div align="center">
